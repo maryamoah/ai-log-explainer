@@ -15,7 +15,6 @@ It parses security logs (FortiSIEM-style, F5 WAF, Trend Micro CEF), extracts Ind
 The tool is fully offline, modular, and ideal for:
 - SOC automation research  
 - Explainable AI in cybersecurity  
-- PhD applications  
 - Log analysis prototyping  
 - Threat intelligence enrichment  
 
