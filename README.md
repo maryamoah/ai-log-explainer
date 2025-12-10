@@ -175,4 +175,4 @@ MIT License.
 ---
 
 ## ⭐ Acknowledgements  
-Developed as part of a Security Operations research portfolio to demonstrate explainable analytics and SOC automation techniques.
+Developed by Mary Amoah as part of a Security Operations research portfolio to demonstrate explainable analytics and SOC automation techniques.
